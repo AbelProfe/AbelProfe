@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbelProfe
 - 👀 I’m interested in PYTHON AND JAVA
-- 🌱 I’m currently learning SGE
+- 🌱 I’m currently learning trumpet
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me asusin@inspedralbes.cat
 
